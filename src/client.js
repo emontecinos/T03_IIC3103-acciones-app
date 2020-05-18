@@ -117,12 +117,12 @@ function get_volumen_compraventa(exchange,databuysell){
         
         compra += databuysell[key]['volume'];
     })
-    return compra
+    return compra;
     
 }
 function get_num_empresas(exchange){
     var num_empresas=exchange['listed_companies'].length;
-    return num_empresas
+    return num_empresas;
 }
 
 function get_frac_volumen(exchange_info,exchange_ticker,databuy,datasell,stocks_info){
