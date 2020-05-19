@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "homepage": "http://emontecinos.github.io/T03_IIC3103-acciones-app",
+  "homepage": "https://emontecinos.github.io/T03_IIC3103-acciones-app",
   "name": "acciones-app",
   "version": "0.1.0",
   "main": "index.js",
