@@ -356,7 +356,7 @@ const App = ({}) => {
                     console.log(last_value);
                 }
             }
-        }),
+        });
         socket.on('BUY',(value) => {
             var date=new Date(value.time).toLocaleDateString([],{hour:'2-digit', minute:'2-digit',second:'2-digit'});
             var datazo=value;
@@ -368,7 +368,7 @@ const App = ({}) => {
                     setDataBuy(currentData=>[...currentData,datazo]);
                 }
             }
-        }),
+        });
         socket.on('SELL',(value) => {
             var date=new Date(value.time).toLocaleDateString([],{hour:'2-digit', minute:'2-digit',second:'2-digit'});
             var datazo=value;
