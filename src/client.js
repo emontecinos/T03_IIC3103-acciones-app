@@ -395,5 +395,6 @@ const App = ({}) => {
 export {socket};
 export {stocks_info};
 export {exchange_info};
+// export App;
 
 ReactDOM.render(<App />,document.getElementById("root"));

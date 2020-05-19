@@ -100888,6 +100888,7 @@ const App = ({}) => {
   }), condition_exchange_active(exchange_info, dataupdate, _navbar.exchange_active, stocks_info, databuy, datasell));
 };
 
+// export App;
 _reactDom.default.render( /*#__PURE__*/_react.default.createElement(App, null), document.getElementById("root"));
 },{"socket.io-client":"../node_modules/socket.io-client/lib/index.js","react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","bootstrap/dist/css/bootstrap.min.css":"../node_modules/bootstrap/dist/css/bootstrap.min.css","recharts":"../node_modules/recharts/es6/index.js","../src/components/navbar":"components/navbar.js","./client.css":"client.css","react-bootstrap/Table":"../node_modules/react-bootstrap/esm/Table.js"}],"../node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
@@ -100917,7 +100918,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63919" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64959" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
