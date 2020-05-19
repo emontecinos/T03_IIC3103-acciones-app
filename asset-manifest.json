@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/T03_IIC3103-acciones-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/T03_IIC3103-acciones-app/static/js/main.f570a7a2.chunk.js",
-    "main.js.map": "/T03_IIC3103-acciones-app/static/js/main.f570a7a2.chunk.js.map",
+    "main.css": "/T03_IIC3103-acciones-app/static/css/main.3951e4f7.chunk.css",
+    "main.js": "/T03_IIC3103-acciones-app/static/js/main.6991e3ab.chunk.js",
+    "main.js.map": "/T03_IIC3103-acciones-app/static/js/main.6991e3ab.chunk.js.map",
     "runtime-main.js": "/T03_IIC3103-acciones-app/static/js/runtime-main.596e5d95.js",
     "runtime-main.js.map": "/T03_IIC3103-acciones-app/static/js/runtime-main.596e5d95.js.map",
     "static/css/2.af3c1da9.chunk.css": "/T03_IIC3103-acciones-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5c986e6d.chunk.js": "/T03_IIC3103-acciones-app/static/js/2.5c986e6d.chunk.js",
-    "static/js/2.5c986e6d.chunk.js.map": "/T03_IIC3103-acciones-app/static/js/2.5c986e6d.chunk.js.map",
+    "static/js/2.13b3235a.chunk.js": "/T03_IIC3103-acciones-app/static/js/2.13b3235a.chunk.js",
+    "static/js/2.13b3235a.chunk.js.map": "/T03_IIC3103-acciones-app/static/js/2.13b3235a.chunk.js.map",
     "index.html": "/T03_IIC3103-acciones-app/index.html",
-    "precache-manifest.7410cbae3ce1f6784b34578ba96b6dbf.js": "/T03_IIC3103-acciones-app/precache-manifest.7410cbae3ce1f6784b34578ba96b6dbf.js",
+    "precache-manifest.6c32d540107a8a1df8d99bf182bcf6b3.js": "/T03_IIC3103-acciones-app/precache-manifest.6c32d540107a8a1df8d99bf182bcf6b3.js",
     "service-worker.js": "/T03_IIC3103-acciones-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/T03_IIC3103-acciones-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/T03_IIC3103-acciones-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5c986e6d.chunk.js.LICENSE.txt": "/T03_IIC3103-acciones-app/static/js/2.5c986e6d.chunk.js.LICENSE.txt",
+    "static/css/main.3951e4f7.chunk.css.map": "/T03_IIC3103-acciones-app/static/css/main.3951e4f7.chunk.css.map",
+    "static/js/2.13b3235a.chunk.js.LICENSE.txt": "/T03_IIC3103-acciones-app/static/js/2.13b3235a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/T03_IIC3103-acciones-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.596e5d95.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5c986e6d.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f570a7a2.chunk.js"
+    "static/js/2.13b3235a.chunk.js",
+    "static/css/main.3951e4f7.chunk.css",
+    "static/js/main.6991e3ab.chunk.js"
   ]
 }
